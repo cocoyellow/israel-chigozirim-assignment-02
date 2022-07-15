@@ -48,7 +48,7 @@ const assignment = {};
     arrEven.push(arrayOfNumbers[i]);
   } //else {alert"no even numbers found";}
  } 
-  return arrEven;
+  return arrEven.length;
  }
  assignment.countEvenNumbers = countEvenNumbers;
 /**
