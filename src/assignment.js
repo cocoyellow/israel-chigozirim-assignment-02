@@ -21,7 +21,7 @@ const assignment = {};
     {
      sum = sum + arrayOfNumbers[i];
     };
-    return("the sum of numbers in the array is" + " " + sum);
+    return(sum);
 
  }
   assignment.sumOfNumbers = sumOfNumbers;
